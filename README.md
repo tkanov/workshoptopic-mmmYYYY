@@ -38,7 +38,7 @@ After you have specified the Python version, you can create a virtual environmen
 Re-watch [this YouTube stream](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
+This workshop was set up by @pyladiesams and {your GitHub handle}
 
 ## Appendix
 ### Pre-Commit Hooks
